@@ -12,7 +12,7 @@
 <channel>
 <name>[COLOR pink]*[/COLOR] Séries</name>
 <thumbnail>https://i.imgur.com/ZgbW6V9.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/magusplay/ENTRADA/master/01%20MENU%20DE%20SERIE/SERIES</externallink>
+<externallink>https://raw.githubusercontent.com/yMysticaGirl/Lady/main/ENTRADA/01%20MENU%20DE%20SERIE/SERIES</externallink>
 <fanart>https://i.imgur.com/pk8hVv5.jpg</fanart>
 <info>Categoria de Séries, encontrados na internet.</info>
 </channel>
@@ -21,16 +21,16 @@
 <channel>
 <name>[COLOR pink]*[/COLOR] Animes - [COLOR red](Manutenção)[/COLOR]</name>
 <thumbnail>https://i.imgur.com/ZgbW6V9.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/magusplay/ENTRADA/master/01%20MENU%20DE%20ANIME/ANIMES</externallink>
+<externallink>https://raw.githubusercontent.com/yMysticaGirl/Lady/main/ENTRADA/01%20MENU%20DE%20ANIME/ANIMES</externallink>
 <fanart>https://i.imgur.com/pk8hVv5.jpg</fanart>
 <info>Categoria de Animes, encontrados na internet.</info>
 </channel>
 </channels>
 
 <channel>
-<name>[COLOR pink]*[/COLOR] Desenhos - [COLOR red](Manutenção)[/COLOR]</name>
+<name>[COLOR pink]*[/COLOR] Desenhos</name>
 <thumbnail>https://i.imgur.com/ZgbW6V9.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/magusplay/ENTRADA/master/01%20MENU%20DE%20ANIME/ANIMES</externallink>
+<externallink>https://raw.githubusercontent.com/yMysticaGirl/Lady/main/ENTRADA/01%20MENU%20DE%20DESENHOS/ELISA</externallink>
 <fanart>https://i.imgur.com/pk8hVv5.jpg</fanart>
 <info>Categoria de Animes, encontrados na internet.</info>
 </channel>
@@ -38,9 +38,9 @@
 
 
 <channel>
-<name>[COLOR pink]*[/COLOR] Novelas - [COLOR red](Manutenção)[/COLOR]</name>
+<name>[COLOR pink]*[/COLOR] Novelas</name>
 <thumbnail>https://i.imgur.com/ZgbW6V9.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/magusplay/ENTRADA/master/01%20MENU%20DE%20ANIME/ANIMES</externallink>
+<externallink>https://raw.githubusercontent.com/yMysticaGirl/Lady/main/ENTRADA/01%20MENU%20DE%20NOVELAS/NOVELAS</externallink>
 <fanart>https://i.imgur.com/pk8hVv5.jpg</fanart>
 <info>Categoria de Animes, encontrados na internet.</info>
 </channel>
