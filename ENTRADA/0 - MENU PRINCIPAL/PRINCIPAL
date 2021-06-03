@@ -1,10 +1,23 @@
+<channel>
+<name>[COLOR pink]*[/COLOR] Leia-me</name>
+<thumbnail>https://imgur.com/9PwDqFE.png</thumbnail>
+<fanart>https://i.imgur.com/pk8hVv5.jpg</fanart>
+<info>
+Para total funcionamento do [COLOR pink]Lady[/COLOR][COLOR white]Flix[/COLOR], 
+você precisa ter instalado no seu [COLOR blue]Kodi[/COLOR] o [COLOR yellow]Elementum[/COLOR]
+</info>
+</channel>
+</channels>
+
+
 <channels>
 <channel>
 <name>[COLOR pink]*[/COLOR] Filmes</name>
 <thumbnail>https://i.imgur.com/WZsZwnv.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/yMysticaGirl/Lady/main/ENTRADA/01%20MENU%20DE%20FILMES/FILMES</externallink>
 <fanart>https://i.imgur.com/pk8hVv5.jpg</fanart>
-<info>Categoria de Filmes, encontrados na internet.</info>
+<info>Categoria de Filmes, encontrados na internet.
+</info>
 </channel>
  
 <channel>
