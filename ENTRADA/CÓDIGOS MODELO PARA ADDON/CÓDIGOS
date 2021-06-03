@@ -2,7 +2,7 @@ MODELO POR SERIE
 
 <channels>
 <channel>
-<name>[B][COLOR white] SERIE  [/COLOR] [COLOR lime] (INFO) [/COLOR] [/B] <name>
+<name>[B][COLOR white] SERIE  [/COLOR] [COLOR lime] (INFO) [/COLOR] [/B]</name>
 <thumbnail>link</thumbnail>
 <externallink>link</externallink>
 <fanart>link</fanart>
@@ -19,7 +19,7 @@ MODELO POR TEMPORADA
 
 <channels>
 <channel>
-<name>[B] [COLOR white] 1ª TEMPORADA [/COLOR][COLOR lime] (INFO) [/COLOR] [/B] <name>
+<name>[B] [COLOR white] 1ª TEMPORADA [/COLOR][COLOR lime] (INFO) [/COLOR] [/B]</name>
 <thumbnail>foto</thumbnail>
 <externallink>link</externallink>
 <fanart>foto</fanart>
@@ -138,7 +138,7 @@ MODELO POR TEMPORADA
 
 <channels>
 <channel>
-<name>[B]1ª TEMPORADA [COLOR white] 2020 [/COLOR] [/B] <name>
+<name>[B]1ª TEMPORADA [COLOR white] 2020 [/COLOR] [/B]</name>
 <thumbnail>foto</thumbnail>
 <externallink>link</externallink>
 <fanart>foto</fanart>
