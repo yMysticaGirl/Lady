@@ -23,7 +23,7 @@ MODELO POR TEMPORADA
 <thumbnail>foto</thumbnail>
 <externallink>link</externallink>
 <fanart>foto</fanart>
-<info> MAGUSPLAY</info>
+<info> LadyFlix</info>
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
@@ -64,7 +64,7 @@ MODELO POR TEMPORADA LINK DIRETO TORRENT
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TORRENT</link>
 <thumbnail>LINK</thumbnail>
 <fanart>LINK</fanart>
-<info>MAGUSPLAY</info>
+<info>LadyFlix</info>
 </item>
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -77,7 +77,7 @@ MODELO POR EPISODIO TORRENT
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TORRENT</link>
 <thumbnail>FOTO</thumbnail>
 <fanart>FOTO</fanart>
-<info>MAGUSPLAY</info>
+<info>LadyFlix</info>
 </item>
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -142,17 +142,17 @@ MODELO POR TEMPORADA
 <thumbnail>foto</thumbnail>
 <externallink>link</externallink>
 <fanart>foto</fanart>
-<info> MAGUSPLAY</info>
+<info> LadyFlix</info>
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 POR ANIMES LINK DIRETO
 
 <item>
-<title>[B] EPISÓDIO 01 [COLOR yellow] MAGUSPLAY [/COLOR] - [COLOR lime] (Full HD) [/COLOR]  LEGENDADO [/B]</title>
+<title>[B] EPISÓDIO 01 [COLOR yellow] LadyFlix [/COLOR] - [COLOR lime] (Full HD) [/COLOR]  LEGENDADO [/B]</title>
 <link>LINK</link>
 <thumbnail>FOTO</thumbnail>
 <fanart>FOTO</fanart>
-<info>MAGUSPLAY ANIME</info>
+<info>LadyFlix ANIME</info>
 <genre>AÇÃO</genre>
 </item>
 
