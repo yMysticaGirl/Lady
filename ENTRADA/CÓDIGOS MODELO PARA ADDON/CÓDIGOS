@@ -1,0 +1,184 @@
+MODELO POR SERIE
+
+<channels>
+<channel>
+<name>[B][COLOR white] SERIE  [/COLOR] [COLOR lime] (INFO) [/COLOR] [/B] <name>
+<thumbnail>link</thumbnail>
+<externallink>link</externallink>
+<fanart>link</fanart>
+<info> 
+[COLOR green]Total Episódios:[/COLOR] 3
+[COLOR green]Ano:[/COLOR] 2020
+[COLOR green]Status:[/COLOR] Em Lançamento
+[COLOR green]Sinopse:[/COLOR]
+</info>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+MODELO POR TEMPORADA
+
+<channels>
+<channel>
+<name>[B] [COLOR white] 1ª TEMPORADA [/COLOR][COLOR lime] (INFO) [/COLOR] [/B] <name>
+<thumbnail>foto</thumbnail>
+<externallink>link</externallink>
+<fanart>foto</fanart>
+<info> MAGUSPLAY</info>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+MODELO POR TEMPORADA "item"
+
+<item>
+        <title>[B][COLOR white] 1ª TEMPORADA [/COLOR][/B]</title>
+        <link>http://Ignoreme</link>
+        <externallink>LINK</externallink>
+<thumbnail>LINK</thumbnail>
+<fanart>LINK</fanart>
+<info>
+[COLOR green]Total Episódios:[/COLOR] 0
+[COLOR green]Ano:[/COLOR] 0000
+[COLOR green]Status:[/COLOR] Completa
+[COLOR green]Sinopse:[/COLOR] AQUI</info>
+        </item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+MODELO POR LISTA M3U
+
+
+#EXTM3U
+
+#EXTINF:0 tvg-logo="IMAGEM" group-title="TITULO" , [B] EPISÓDIO/TEMPORADA [/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TORRENT
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+MODELO POR TEMPORADA LINK DIRETO TORRENT
+
+
+<item>
+<title>[B] 1ª TEMPORADA [COLOR yellow][/COLOR][COLOR lime][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TORRENT</link>
+<thumbnail>LINK</thumbnail>
+<fanart>LINK</fanart>
+<info>MAGUSPLAY</info>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+MODELO POR EPISODIO TORRENT
+
+<item>
+<title>[B] Episódio 01 [COLOR lime]  [/COLOR]  [/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TORRENT</link>
+<thumbnail>FOTO</thumbnail>
+<fanart>FOTO</fanart>
+<info>MAGUSPLAY</info>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+MODELO POR EPISODIO COM DESCRIÇÃO 
+
+<item>
+<title>[B] Episódio 01 [COLOR lime] (Torrent) [/COLOR]  [/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TORRENT</link>
+<thumbnail>LINK</thumbnail>
+<fanart>LINK</fanart>
+<info> [COLOR green]Total Episódios:[/COLOR] ?
+[COLOR green]Ano:[/COLOR] ?
+[COLOR green]Status:[/COLOR] ?
+[COLOR green]Sinopse:[/COLOR] </info>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+MODELO POR FILME TORRENT
+
+<item>
+<title>[B] TITULO  [COLOR yellow] [/COLOR] [COLOR lime](HD)[/COLOR] DUBLADO [/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LINK</link>
+<thumbnail>LINK</thumbnail>
+<fanart>LINK</fanart>
+<info> 
+[COLOR green]Ano:[/COLOR] 2020
+[COLOR green]Genero:[/COLOR] AÇÃO
+[COLOR green]Sinopse:[/COLOR]
+</info>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+modelo por filme link duplo
+
+
+<item>
+<title>[B] TITULO  [COLOR yellow] [/COLOR] [COLOR lime](HD)[/COLOR] DUBLADO [/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:link&dn/view$$lsname=720</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:link&dn/view$$lsname=1080</link>
+<thumbnail>LINK</thumbnail>
+<fanart>LINK</fanart>
+<info> 
+[COLOR green]Ano:[/COLOR] 2020
+[COLOR green]Genero:[/COLOR] AÇÃO
+[COLOR green]Sinopse:[/COLOR]
+</info>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+
+MODELO POR TEMPORADA
+
+<channels>
+<channel>
+<name>[B]1ª TEMPORADA [COLOR white] 2020 [/COLOR] [/B] <name>
+<thumbnail>foto</thumbnail>
+<externallink>link</externallink>
+<fanart>foto</fanart>
+<info> MAGUSPLAY</info>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+POR ANIMES LINK DIRETO
+
+<item>
+<title>[B] EPISÓDIO 01 [COLOR yellow] MAGUSPLAY [/COLOR] - [COLOR lime] (Full HD) [/COLOR]  LEGENDADO [/B]</title>
+<link>LINK</link>
+<thumbnail>FOTO</thumbnail>
+<fanart>FOTO</fanart>
+<info>MAGUSPLAY ANIME</info>
+<genre>AÇÃO</genre>
+</item>
+
+
+MODELO POR EPISÓDIO GDRIVE
+
+<item>
+<title>[B] Episódio 01 [COLOR lime] (INFO) [/COLOR]  [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINK</link>
+<thumbnail>LINK</thumbnail>
+<fanart>LINK</fanart>
+<info> [B]DUBLADO[/B] </info>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+MODELO POR FILME GDRIVE
+
+<item>
+<title>[B] NOME [COLOR yellow](2000)[/COLOR]  [COLOR lime](HD)[/COLOR]  DUBLADO  [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINK</link>
+<thumbnail>FOTO</thumbnail>
+<fanart>FOTO</fanart>
+<info> 
+[COLOR green]Ano:[/COLOR] 2020
+[COLOR green]Genero:[/COLOR] AÇÃO
+[COLOR green]Sinopse:[/COLOR]
+</info>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
