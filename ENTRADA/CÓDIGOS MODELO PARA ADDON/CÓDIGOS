@@ -7,10 +7,10 @@ MODELO POR SERIE
 <externallink>link</externallink>
 <fanart>link</fanart>
 <info> 
-[COLOR green]Total Episódios:[/COLOR] 3
-[COLOR green]Ano:[/COLOR] 2020
-[COLOR green]Status:[/COLOR] Em Lançamento
-[COLOR green]Sinopse:[/COLOR]
+[COLOR pink]Total Episódios:[/COLOR] 3
+[COLOR pink]Ano:[/COLOR] 2020
+[COLOR pink]Status:[/COLOR] Em Lançamento
+[COLOR pink]Sinopse:[/COLOR]
 </info>
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -37,10 +37,10 @@ MODELO POR TEMPORADA "item"
 <thumbnail>LINK</thumbnail>
 <fanart>LINK</fanart>
 <info>
-[COLOR green]Total Episódios:[/COLOR] 0
-[COLOR green]Ano:[/COLOR] 0000
-[COLOR green]Status:[/COLOR] Completa
-[COLOR green]Sinopse:[/COLOR] AQUI</info>
+[COLOR pink]Total Episódios:[/COLOR] 0
+[COLOR pink]Ano:[/COLOR] 0000
+[COLOR pink]Status:[/COLOR] Completa
+[COLOR pink]Sinopse:[/COLOR] AQUI</info>
         </item>
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -88,10 +88,10 @@ MODELO POR EPISODIO COM DESCRIÇÃO
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TORRENT</link>
 <thumbnail>LINK</thumbnail>
 <fanart>LINK</fanart>
-<info> [COLOR green]Total Episódios:[/COLOR] ?
-[COLOR green]Ano:[/COLOR] ?
-[COLOR green]Status:[/COLOR] ?
-[COLOR green]Sinopse:[/COLOR] </info>
+<info> [COLOR pink]Total Episódios:[/COLOR] ?
+[COLOR pink]Ano:[/COLOR] ?
+[COLOR pink]Status:[/COLOR] ?
+[COLOR pink]Sinopse:[/COLOR] </info>
 </item>
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -105,9 +105,9 @@ MODELO POR FILME TORRENT
 <thumbnail>LINK</thumbnail>
 <fanart>LINK</fanart>
 <info> 
-[COLOR green]Ano:[/COLOR] 2020
-[COLOR green]Genero:[/COLOR] AÇÃO
-[COLOR green]Sinopse:[/COLOR]
+[COLOR pink]Ano:[/COLOR] 2020
+[COLOR pink]Genero:[/COLOR] AÇÃO
+[COLOR pink]Sinopse:[/COLOR]
 </info>
 </item>
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
@@ -124,9 +124,9 @@ modelo por filme link duplo
 <thumbnail>LINK</thumbnail>
 <fanart>LINK</fanart>
 <info> 
-[COLOR green]Ano:[/COLOR] 2020
-[COLOR green]Genero:[/COLOR] AÇÃO
-[COLOR green]Sinopse:[/COLOR]
+[COLOR pink]Ano:[/COLOR] 2020
+[COLOR pink]Genero:[/COLOR] AÇÃO
+[COLOR pink]Sinopse:[/COLOR]
 </info>
 </item>
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
@@ -176,9 +176,9 @@ MODELO POR FILME GDRIVE
 <thumbnail>FOTO</thumbnail>
 <fanart>FOTO</fanart>
 <info> 
-[COLOR green]Ano:[/COLOR] 2020
-[COLOR green]Genero:[/COLOR] AÇÃO
-[COLOR green]Sinopse:[/COLOR]
+[COLOR pink]Ano:[/COLOR] 2020
+[COLOR pink]Genero:[/COLOR] AÇÃO
+[COLOR pink]Sinopse:[/COLOR]
 </info>
 </item>
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
