@@ -1,6 +1,14 @@
 <channels>
 
 <channel>
+<name>[[COLOR pink]*[/COLOR] Filmes - Lançamento - RedeCanais</name>
+<thumbnail>https://i.imgur.com/WETopHh.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/Lan%C3%A7amentos.xml</externallink>
+<info>[B][COLOR white]MELHORES LANÇAMENTOS DE [COLOR gold]2021[/COLOR][/COLOR][/B]</info>
+<fanart>https://image.tmdb.org/t/p/original/orjiB3oUIsyz60hoEqkiGpy5CeO.jpg</fanart>
+</channel>
+
+<channel>
 <name>[COLOR pink]*[/COLOR] Filmes - 2021</name>
 <thumbnail>https://imgur.com/eyH0tUu.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/yMysticaGirl/Lady/main/ENTRADA/01%20MENU%20DE%20FILMES/LAN%C3%87AMENTOS%202021</externallink>
