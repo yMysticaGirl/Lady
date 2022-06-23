@@ -1,0 +1,30 @@
+<channels>
+<channel>
+<name>[B]Séries [COLOR purple]HBO[/COLOR] [COLOR yellow]Max[/COLOR][/B]</name>
+<thumbnail>https://play-lh.googleusercontent.com/GmIOtlRHzTffK3WSyNrz4NNrWFh_yUuhQb9UHXztk0ZxeeFzAUD52b9YVTGh7nsdJ8c</thumbnail>
+<fanart>https://tracklist.com.br/wp-content/uploads/2021/06/HBO-max-lancamento-Brasil.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/greggorio1/Piratebr-k19/main/1_HBO_max</externallink>
+<info>
+[B][COLOR yellow]Ultimos Adicionados[/COLOR]: 04/10 [/B]
+
+[B]Quem é Voce,Alasca?[/B]
+[B]Anos Incriveis[/B]
+[B]Love Life[/B]
+[B]Raised By Wolves[/B]
+[B]A Comissaria De Bordo[/B]
+</info>
+</channel>
+</channels>
+
+
+<channels>
+<channel>
+<name>[B]Filmes [COLOR purple]HBO[/COLOR] [COLOR yellow]Max[/COLOR][/B]</name>
+<thumbnail>https://play-lh.googleusercontent.com/GmIOtlRHzTffK3WSyNrz4NNrWFh_yUuhQb9UHXztk0ZxeeFzAUD52b9YVTGh7nsdJ8c</thumbnail>
+<fanart>https://tracklist.com.br/wp-content/uploads/2021/06/HBO-max-lancamento-Brasil.jpg</fanart>
+<externallink>https://github.com/greggorio1/Piratebr-k19/raw/main/1_HBO_Max_Filmes</externallink>
+<info>
+[B]FILMES ORIGINAIS HBO MAX (TESTE)[/B]
+</info>
+</channel>
+</channels>

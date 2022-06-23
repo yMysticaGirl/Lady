@@ -1,0 +1,27 @@
+<channels>
+<channel>
+<name>[B]Séries [COLOR white]Apple[/COLOR] [COLOR gray]Tv[/COLOR]+[/B]</name>
+<thumbnail>https://www.macpricesaustralia.com.au/wp-content/uploads/2019/10/Apple-TV-app-icon-1024x1024.png</thumbnail>
+<fanart>https://mixdeseries.com.br/wp-content/uploads/2019/03/Apple-TV-2-e1568730986332.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/greggorio1/Piratebr-k19/main/1_HBO_max</externallink>
+<info>
+[B][COLOR yellow]Adicionados[/COLOR]: 23/08[/B]
+
+[B]Schmigadoon![/B]
+[B]Mr. Corman[/B]
+</info>
+</channel>
+</channels>
+
+
+<channels>
+<channel>
+<name>[B]Filmes [COLOR white]Apple[/COLOR] [COLOR gray]Tv[/COLOR]+[/B]</name>
+<thumbnail>https://www.macpricesaustralia.com.au/wp-content/uploads/2019/10/Apple-TV-app-icon-1024x1024.png</thumbnail>
+<fanart>https://mixdeseries.com.br/wp-content/uploads/2019/03/Apple-TV-2-e1568730986332.jpg</fanart>
+<externallink>https://github.com/greggorio1/Piratebr-k19/raw/main/1_Apple_Tv_Filmes</externallink>
+<info>
+[B]FILMES ORIGINAIS APPLE TV+ (TESTE)[/B]
+</info>
+</channel>
+</channels>
