@@ -35,7 +35,7 @@
 <channels>
 <channel>
 <name>[B]After[/B]</name>
----<externallink>https://github.com/greggorio1/torrent_2/raw/main/trilogia%20after</externallink>
+---<externallink>https://raw.githubusercontent.com/yMysticaGirl/Lady/main/Lady/torrent_2/trilogia%20after</externallink>
 <thumbnail>https://imgs.capitalfm.com/images/197419?crop=16_9&width=660&relax=1&signature=VSZAx7SmokPoZ6fSHxk1xgVc32c=</thumbnail>
 <fanart>https://cdn.thetealmango.com/wp-content/uploads/2021/07/after.jpg</fanart>
 <genre>Romance, Drama</genre>
@@ -49,7 +49,7 @@ Tessa Young é uma jovem com uma vida simples, ótimas notas na escola, muitos a
 <channels>
 <channel>
 <name>[B]Presos No Gelo[/B]</name>
----<externallink>https://github.com/greggorio1/torrent_2/raw/main/trilogia%20presos%20no%20gelo</externallink>
+---<externallink>https://raw.githubusercontent.com/yMysticaGirl/Lady/main/Lady/torrent_2/trilogia%20presos%20no%20gelo</externallink>
 <thumbnail>https://br.web.img3.acsta.net/medias/nmedia/18/95/18/73/20386774.jpg</thumbnail>
 <fanart>https://2.bp.blogspot.com/-ydAaEAbNptc/VjUyqs5gl2I/AAAAAAAAFJg/mNwL3ZAao48/s1600/presos-no-gelo-iii-e28093-o-inc3adcio-4.jpg</fanart>
 <genre>Terror</genre>
