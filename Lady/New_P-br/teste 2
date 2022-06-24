@@ -1,0 +1,19 @@
+<channels></channels>
+<channel>
+<name>Anjos da Vida: Mais Bravos que o Mar</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/kjTuURI5M9iwOoXsNcL5irtBGbw.jpg</thumbnail>
+
+<item>
+<title>1080p</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:537f99dd2e5b21d642892058a52dbe29e0ecf6c1</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/kjTuURI5M9iwOoXsNcL5irtBGbw.jpg</thumbnail>
+<info></info>
+</item>
+
+<item>
+<title>720p</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2a6df8008eabeec7548f822c926b79351e965298</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/kjTuURI5M9iwOoXsNcL5irtBGbw.jpg</thumbnail>
+<info></info>
+</item>
+</channel>

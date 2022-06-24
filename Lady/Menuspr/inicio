@@ -1,61 +1,64 @@
-
-
-
-
 <channels>
 <channel>
-<name>[COLOR green]•[/COLOR][B]FILMES[/B]</name>
-<thumbnail>https://us.123rf.com/450wm/littleairplane/littleairplane1606/littleairplane160600022/61046143-iconos-planos-vectoriales-g%C3%A9neros-cinematogr%C3%A1ficos-tema-en-blanco-y-negro.jpg?ver=6</thumbnail>
-<externallink>https://raw.githubusercontent.com/yMysticaGirl/Lady/main/Lady/Piratebr-k19/Categorias%20de%20filmes</externallink>
+<name>[COLOR blue][B]≡[/B][/COLOR] FILMES</name>
+<thumbnail>https://static.vecteezy.com/ti/vetor-gratis/p3/2180999-elementos-do-genero-do-filme-vetor.jpg</thumbnail>
+<externallink>https://github.com/Gael-addon-P-br/New_P-br/raw/main/%23inicio_filmes.xml</externallink>
 <fanart>https://d2p7ncqs8iaoqd.cloudfront.net/uploads/2021/05/GENERO.jpg</fanart>
 <info>
-[B]Mais de 10 Generos de filmes[/B]
+[B]UM ACERVO BACANA DE FILMES EM HD,FHD E 4K DUAL AUDIO.[/B]
 </info>
 </channel>
-
+</channels>
 ......................................................................................
-
+<channels>
 <channel>
-<name>[COLOR green]•[/COLOR][B]ANIMES [/B] </name>
-<thumbnail>http://nerdtec.net/wp-content/uploads/2016/06/anime-2.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/yMysticaGirl/Lady/main/Lady/Piratebr-k19/Animes_Torrent</externallink>
-<fanart>https://teoriageek.com.br/wp-content/uploads/2021/09/confira-agora-os-25-melhores-animes-que-ja-foram-criados-26.jpg</fanart>
-<info>
-[B]Os mais populares Animes em HD & FHD[/B]
-</info>
-</channel>
-
-......................................................................................
-
-
-<channel>
-<name>[COLOR green]•[/COLOR][B]SÉRIES[/B] </name>
+<name>[COLOR blue][B]≡[/B][/COLOR] SÉRIES</name>
 <thumbnail>https://hiseye.org/wp-content/uploads/2020/06/Streaming-service-collage--900x877.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/yMysticaGirl/Lady/main/Lady/Piratebr-k19/plataformas%20de%20series</externallink>
+<externallink>https://github.com/Gael-addon-P-br/New_P-br/raw/main/%23inicio_series.xml</externallink>
 <fanart>https://cdn.falauniversidades.com.br/wp-content/uploads/2020/05/06113757/plataformas-de-streaming.jpg</fanart>
 <info>
-[B]Agora separada por plataformas de streaming.[/B]
+[B]VARIADAS SERIES SEPARADAS POR PLATAFORMAS DE STREAMINGS[/B]
 </info>
 </channel>
-
-
-
-
+</channels>
+------------------------------------------------------------------------------------
+<channels>
 <channel>
-<name>[COLOR green]•[/COLOR][B]KIDS [/B] </name>
-<thumbnail>https://yt3.ggpht.com/ytc/AAUvwnhO7cS88EcuzdGPlnnsSSzbpyySl5ll_ULXiYqt=s800-c-k-c0x00ffffff-no-rj</thumbnail>
-<externallink>https://raw.githubusercontent.com/yMysticaGirl/Lady/main/Lady/Piratebr-k19/kids</externallink>
-<fanart>https://i.ytimg.com/vi/kxRMvjNH-po/maxresdefault.jpg</fanart>
-<info>[B]Desenhos infantis e educacionais Via Torrent[/B]
-
+<name>[COLOR blue][B]≡[/B][/COLOR] ANIMES</name>
+<thumbnail>http://nerdtec.net/wp-content/uploads/2016/06/anime-2.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Gael-addon-P-br/New_P-br/main/%23inicio_animes.xml</externallink>
+<fanart>https://teoriageek.com.br/wp-content/uploads/2021/09/confira-agora-os-25-melhores-animes-que-ja-foram-criados-26.jpg</fanart>
+<info>
+[B]OS ANIMES MAIS POPULARES EM HD E FHD[/B]
 </info>
 </channel>
-
-
-
-
+</channels>
+......................................................................................
+<channels>
 <channel>
-<name>[B][COLOR cyan]Addon GlobePlay[/COLOR][/B]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] DESENHOS</name>
+<thumbnail>https://m.media-amazon.com/images/I/819hRzuJi+L._AC_SY450_.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Gael-addon-P-br/New_P-br/main/3_S%C3%A9ries_Animadas.xml</externallink>
+<fanart>https://opetroleo.com.br/wp-content/uploads/2022/02/Imagem1.png</fanart>
+<info>[B]SÉRIES ANIMADAS VIA TORRENT E/OU LINK DIRETO[/B]
+</info>
+</channel>
+</channels>
+--------------------------------------------------------------------------------------------------
+<channels>
+<channel>
+<name>[COLOR red][B]≡[/B][/COLOR] INFANTIL</name>
+<thumbnail>https://img.freepik.com/vetores-gratis/logotipo-da-zona-infantil-com-letras-caramelo_91248-36.jpg?w=2000</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://previews.123rf.com/images/julioaldana/julioaldana1711/julioaldana171100012/89464601-zona-infantil-children-zone-spanish-text-vector-sign-illustration-.jpg</fanart>
+<info>[B]DESENHOS INFANTIS E EDUCACIONAIS VIA TORRENT[/B]
+</info>
+</channel>
+</channels>
+
+----------------------------------------------------------------------------
+<channel>
+<name>[COLOR blue][B]≡[/B][/COLOR] [B][COLOR cyan]Addon GlobePlay[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/4sm0ubj.png</thumbnail>
 <externallink>https://bit.ly/3nXgyua</externallink>
 <fanart>https://i.imgur.com/4sm0ubj.png</fanart>
@@ -75,4 +78,4 @@ Cursos
 Filmes
 Series</info>
 </channel>
-</channels>
+---------------------------------------------------------------------------------
