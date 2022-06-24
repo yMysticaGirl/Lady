@@ -64,7 +64,7 @@ A trilogia Presos no Gelo começou em 2006, quando o primeiro filme, uma produç
 <channels>
 <channel>
 <name>[B]Pânico[/B]</name>
----<externallink>https://github.com/greggorio1/torrent/raw/master/trilogia%20scream</externallink>
+---<externallink>https://raw.githubusercontent.com/yMysticaGirl/Lady/main/Lady/torrent/trilogia%20scream</externallink>
 <thumbnail>https://br.web.img3.acsta.net/pictures/21/10/13/21/56/4755833.jpg</thumbnail>
 <fanart>http://www.oniversoabominavel.com/wp-content/uploads/2020/08/P%C3%A2nico-Ghostface-1280x720-1.jpg</fanart>
 <genre>Terror, Suspense</genre>
@@ -77,7 +77,7 @@ Sidney Prescott (Neve Campbell) começa a desconfiar que a morte de dois estudan
 <channels>
 <channel>
 <name>[B]Rua Do Medo[/B]</name>
----<externallink>https://github.com/greggorio1/torrent/raw/master/trilogia%20rua%20do%20medo</externallink>
+---<externallink>https://raw.githubusercontent.com/yMysticaGirl/Lady/main/Lady/torrent/trilogia%20rua%20do%20medo</externallink>
 <thumbnail>https://br.web.img2.acsta.net/pictures/21/07/14/16/08/3726160.jpg</thumbnail>
 <fanart>https://1.bp.blogspot.com/-pv4VEymT39k/YPyMgBjE8NI/AAAAAAAABag/Hhc9JEIxWVQOcpnnRipdWstBod2G-tiSACLcBGAsYHQ/s1920/RUA%2BDO%2BMEDO%2B12.jpg</fanart>
 <genre>Suspense, Terror</genre>
@@ -92,7 +92,7 @@ Depois de uma série de assassinatos brutais, um grupo de adolescentes enfrenta 
 <channels>
 <channel>
 <name>[B]Yu-Gi-Oh![/B]</name>
----<externallink>https://github.com/greggorio1/torrent/raw/master/trilogia%20yu-gi-oh</externallink>
+---<externallink>https://raw.githubusercontent.com/yMysticaGirl/Lady/main/Lady/torrent/trilogia%20yu-gi-oh</externallink>
 <thumbnail>https://i1.wp.com/www.solosagrado.com.br/blog/site/wp-content/uploads/2016/09/Yu-Gi-Oh-3D-Bonds-Beyond-Time.jpg</thumbnail>
 <genre> Animação, Curta, Ação, Comédia, Fantasia, Clássico, Anime</genre>
 <info>
@@ -106,7 +106,7 @@ Um menino chamado Shougo Aoyama é muito tímido para duelar, mesmo após a obte
 <channels>
 <channel>
 <name>[B]High School Musical[/B]</name>
----<externallink>https://github.com/greggorio1/torrent/raw/master/trilogia%20high%20school%20musical</externallink>
+---<externallink>https://raw.githubusercontent.com/yMysticaGirl/Lady/main/Lady/torrent/trilogia%20high%20school%20musical</externallink>
 <thumbnail>https://netcine.cc/wp-content/uploads/2020/04/lkcc7eC4qTbhE2DBnoVpGg2ZeM9.jpg</thumbnail>
 <fanart>https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/01/high-school-musical1.jpg</fanart>
 <genre> Comédia, Musical</genre>
