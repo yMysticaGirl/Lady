@@ -1,8 +1,8 @@
 <channels>
 <channel>
 <name>[COLOR blue][B]≡[/B][/COLOR] FILMES</name>
-<thumbnail>https://static.vecteezy.com/ti/vetor-gratis/p3/2180999-elementos-do-genero-do-filme-vetor.jpg</thumbnail>
-<externallink>https://github.com/Gael-addon-P-br/New_P-br/raw/main/%23inicio_filmes.xml</externallink>
+<thumbnail>https://img.freepik.com/vetores-gratis/conjunto-de-icones-de-generos-de-filme_1284-13873.jpg?w=2000</thumbnail>
+<externallink>https://raw.githubusercontent.com/yMysticaGirl/Lady/main/Lady/New_P-br/%23inicio_filmes.xml</externallink>
 <fanart>https://d2p7ncqs8iaoqd.cloudfront.net/uploads/2021/05/GENERO.jpg</fanart>
 <info>
 [B]UM ACERVO BACANA DE FILMES EM HD,FHD E 4K DUAL AUDIO.[/B]
@@ -14,7 +14,7 @@
 <channel>
 <name>[COLOR blue][B]≡[/B][/COLOR] SÉRIES</name>
 <thumbnail>https://hiseye.org/wp-content/uploads/2020/06/Streaming-service-collage--900x877.jpg</thumbnail>
-<externallink>https://github.com/Gael-addon-P-br/New_P-br/raw/main/%23inicio_series.xml</externallink>
+<externallink>https://raw.githubusercontent.com/yMysticaGirl/Lady/main/Lady/New_P-br/%23inicio_series.xml</externallink>
 <fanart>https://cdn.falauniversidades.com.br/wp-content/uploads/2020/05/06113757/plataformas-de-streaming.jpg</fanart>
 <info>
 [B]VARIADAS SERIES SEPARADAS POR PLATAFORMAS DE STREAMINGS[/B]
@@ -26,7 +26,7 @@
 <channel>
 <name>[COLOR blue][B]≡[/B][/COLOR] ANIMES</name>
 <thumbnail>http://nerdtec.net/wp-content/uploads/2016/06/anime-2.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Gael-addon-P-br/New_P-br/main/%23inicio_animes.xml</externallink>
+<externallink>https://raw.githubusercontent.com/yMysticaGirl/Lady/main/Lady/New_P-br/%23inicio_animes.xml</externallink>
 <fanart>https://teoriageek.com.br/wp-content/uploads/2021/09/confira-agora-os-25-melhores-animes-que-ja-foram-criados-26.jpg</fanart>
 <info>
 [B]OS ANIMES MAIS POPULARES EM HD E FHD[/B]
@@ -38,7 +38,7 @@
 <channel>
 <name>[COLOR blue][B]≡[/B][/COLOR] DESENHOS</name>
 <thumbnail>https://m.media-amazon.com/images/I/819hRzuJi+L._AC_SY450_.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Gael-addon-P-br/New_P-br/main/3_S%C3%A9ries_Animadas.xml</externallink>
+<externallink>https://raw.githubusercontent.com/yMysticaGirl/Lady/main/Lady/New_P-br/3_S%C3%A9ries_Animadas.xml</externallink>
 <fanart>https://opetroleo.com.br/wp-content/uploads/2022/02/Imagem1.png</fanart>
 <info>[B]SÉRIES ANIMADAS VIA TORRENT E/OU LINK DIRETO[/B]
 </info>
